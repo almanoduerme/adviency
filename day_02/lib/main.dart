@@ -19,7 +19,6 @@ class MainApp extends StatelessWidget {
             ),
             backgroundColor: Colors.red,
             body: const Padding(
-              // padding: EdgeInsets.only(top: 12),
               padding: EdgeInsets.symmetric(vertical: 12, horizontal: 12),
               child: Center(
                 child: Column(
